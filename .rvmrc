@@ -1,0 +1,2 @@
+rvm use ruby-1.8.7@range_set
+#rvm use ruby-1.9.2@range_set
